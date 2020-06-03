@@ -10,6 +10,7 @@
 ```
 git clone https://github.com/vahellame/swap_daemon.git
 cd swap_daemon
+```
 
 ### Step 3) Running 
 
