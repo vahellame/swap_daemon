@@ -2,7 +2,7 @@
 
 ### Step 1) Requirements
 
-- Linux
+- Linux / 
 - Python 3.x
 
 ### Step 2) Install
@@ -15,5 +15,5 @@ cd swap_daemon
 ### Step 3) Running 
 
 ```
-sudo nohup python3 main.py 1> /dev/null 2> /dev/null &
+sudo nohup python3 swap_daemon.py 1> /dev/null 2> /dev/null &
 ```
