@@ -2,7 +2,7 @@
 
 ### Step 1) Requirements
 
-- Linux / 
+- Linux
 - Python 3.x
 
 ### Step 2) Install
